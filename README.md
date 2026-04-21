@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Agshay
+# Hi there! I'm Agshay
 
 **Engineering Student · Télécom Paris, Institut Polytechnique de Paris · AI & Computer Vision**
 
