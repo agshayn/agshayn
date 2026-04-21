@@ -24,7 +24,7 @@
 
 ## 🚀 Notable Projects
 
-**White Blood Cell Classification** · [Repo](https://github.com/yourprofile/wbc-classification)
+**White Blood Cell Classification** · [Repo](https://github.com/agshayn/WBC-Classification)
 
 Automatic classification of white blood cells into 13 classes from microscopic images. Tackled extreme class imbalance (11 to 13 000 images/class) through class weight calibration, offline oversampling, and 2-stage training. Final score: **F1 macro = 0.7677** via weighted ensemble (Swin-T + ConvNeXt + EfficientNet-B3) with TTA ×10.
 
