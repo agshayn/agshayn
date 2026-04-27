@@ -4,15 +4,15 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 🎓 Master of Science in Engineering at **Télécom Paris**, Institut Polytechnique de Paris
-- 🔭 Specializing in **Artificial Intelligence**, **Computer Vision**, and **Applied Mathematics**
-- 📚 Current coursework: Deep Learning, Generative Models, 3D/Video Vision, Object Recognition, NLP, Signal Processing, ML Optimization
+- Master of Science in Engineering at **Télécom Paris**, Institut Polytechnique de Paris
+- Specializing in **Artificial Intelligence**, **Computer Vision**, and **Applied Mathematics**
+- Current coursework: Deep Learning, Generative Models, 3D/Video Vision, Object Recognition, NLP, Signal Processing, ML Optimization
 
 ---
 
-## 🛠 Skills
+## Skills
 
 | Domain | Technologies / Tools |
 |---|---|
@@ -22,7 +22,7 @@
 
 ---
 
-## 🚀 Notable Projects
+## Notable Projects
 
 **White Blood Cell Classification** · [Repo](https://github.com/agshayn/WBC-Classification)
 
@@ -34,7 +34,7 @@ Automated segmentation pipeline for skin lesions (melanomas & nevi) from dermosc
 
 ---
 
-## 📫 Let's Connect!
+## Let's Connect!
 
-- 📧 **Work:** [agshay.nadanakumar@telecom-paris.fr](mailto:agshay.nadanakumar@telecom-paris.fr)
-- 💼 **LinkedIn:** [Agshay Nadanakumar](https://www.linkedin.com/in/agshay-nadanakumar/)
+- **Work:** [agshay.nadanakumar@telecom-paris.fr](mailto:agshay.nadanakumar@telecom-paris.fr)
+- **LinkedIn:** [Agshay Nadanakumar](https://www.linkedin.com/in/agshay-nadanakumar/)
