@@ -18,6 +18,7 @@
 |---|---|
 | ML / CV | PyTorch, TensorFlow, OpenCV, Scikit-learn |
 | Data Science | Pandas, NumPy, Matplotlib, SQL |
+| AI APIs & Models | OpenAI API, HuggingFace Transformers, Pydantic |
 | Languages | Python, TypeScript, SQL |
 
 ---
@@ -25,11 +26,12 @@
 ## Notable Projects
 
 **White Blood Cell Classification** · [Repo](https://github.com/agshayn/WBC-Classification)
-
 Automatic classification of white blood cells into 13 classes from microscopic images. Tackled extreme class imbalance (11 to 13 000 images/class) through class weight calibration, offline oversampling, and 2-stage training. Final score: **F1 macro = 0.7677** via weighted ensemble (Swin-T + ConvNeXt + EfficientNet-B3) with TTA ×10.
 
-**Skin Lesion Segmentation** · [Repo](https://github.com/agshayn/Medical-lesion-segmentation)
+**Secretary-AI** · [Repo](https://github.com/agshayn/Secretary-AI)
+Multi-agent AI system automating medical secretary tasks — appointment scheduling, email management, and prescription generation. Built around a shared abstraction layer (`BaseAIModel`) following the **Strategy design pattern**, enabling seamless switching between OpenAI and local HuggingFace backends. End-to-end voice pipeline (STT → LLM → TTS) with structured data extraction via Pydantic and PDF generation.
 
+**Skin Lesion Segmentation** · [Repo](https://github.com/agshayn/Medical-lesion-segmentation)
 Automated segmentation pipeline for skin lesions (melanomas & nevi) from dermoscopic images — using **classical computer vision only** (no deep learning). Implemented and compared three approaches: multi-channel Otsu thresholding, LBP texture clustering (K-Means in CIE Lab), and Statistical Region Merging. Best results achieved with LBP clustering, evaluated via Dice score.
 
 ---
